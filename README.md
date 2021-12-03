@@ -3,9 +3,9 @@
 # Ecommerce - Rynok
 https://rynokcommerce.herokuapp.com/
 
-# Para probar usuario Amin, pedir usuario y contraseña.
-# Solo funciona la categoria "Cellphones", ya que, las otras no contienen realizado un seed de data.
-# Este sitio no es responsive.
+### Para Probar usuario Admin =  email: admin@admin.com  |  password: admin123
+### Solo funciona la categoria "Cellphones", ya que, las otras no contienen realizado un seed de data.
+### Este sitio no es responsive.
 
 ### Caracteristicas Globales
 
